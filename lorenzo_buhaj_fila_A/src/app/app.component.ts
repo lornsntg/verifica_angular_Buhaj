@@ -11,5 +11,5 @@ import { QuartoComponenteComponent } from './quarto-componente/quarto-componente
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'lorenzo_buhaj_fila_A';
+  title = 'app';
 }
