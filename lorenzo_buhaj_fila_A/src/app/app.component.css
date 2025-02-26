@@ -1,3 +1,13 @@
 .red_text{
     color: red
 }
+.container {
+    background-color: rgb(212, 193, 193);
+    width: 400px;
+    padding-left: 150px;
+    height: 400px;
+    padding-top: 50px;
+}
+.container_text {
+    text-align:end;
+}
